@@ -1,0 +1,3 @@
+adamu;sudo,dev,www-data
+samuel;sudo
+monday;dev,www-data
