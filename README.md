@@ -17,7 +17,7 @@ The input file should list usernames and groups in the format: `username;group1,
 ### Example
 
 ```
-adam;sudo,dev,www-data
+adamu;sudo,dev,www-data
 samuel;sudo
 monday;dev,www-data
 ```
